@@ -1,0 +1,16 @@
+# root ignore
+
+# dependencies
+node_modules/
+
+# env files
+server/.env
+client/.env
+.env
+
+# build
+dist/
+build/
+
+# logs
+*.log
